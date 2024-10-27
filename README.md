@@ -43,4 +43,4 @@ I'm a web developer and gamer who loves creating websites, web apps, and game se
 
 - 📫 How to reach me:
 - Discord: zenith666.
-[DISCORD SERVER]((https://discord.gg/legendntw))
+[DISCORD SERVER](https://discord.gg/legendntw)
