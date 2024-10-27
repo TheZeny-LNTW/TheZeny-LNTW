@@ -23,7 +23,7 @@ I'm a web developer and gamer who loves creating websites, web apps, and game se
 
 - **Frontend**: HTML, CSS, JavaScript, React
 - **Backend**: Node.js, Express, MongoDB, Python
-- **Game Server Management**: Rust, CoD, CS server setup and config
+- **Game Server Management**: Rust, Unturned, CS server setup and config
 - **Other**: API integration, WebSocket, Server optimization
 
 ---
@@ -43,4 +43,4 @@ I'm a web developer and gamer who loves creating websites, web apps, and game se
 
 - 📫 How to reach me:
 - Discord: zenith666.
-[DISCORD SERVER]([https://dsc.gg/legendsnetwork](https://discord.gg/legendntw))
+[DISCORD SERVER]((https://discord.gg/legendntw))
