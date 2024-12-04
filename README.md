@@ -11,7 +11,7 @@
 My name is Zeny<br>
 I am an 21 year old I’m interested in Making game servers Also making some programs in js.<br><br>
 
-### Developer | Gamer | Web Enthusiast
+### Full-Stack Developer | Gamer | Web Enthusiast
 
 ---
 
