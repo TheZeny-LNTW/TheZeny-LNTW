@@ -22,7 +22,7 @@ I'm a web developer and gamer who loves creating websites, web apps, and game se
 ## 🚀 Skills & Technologies
 
 - **Frontend**: HTML, CSS, JavaScript, React
-- **Backend**: Node.js, Express, MongoDB, Python
+- **Backend**: Node.js, Express, MongoDB, Python, C++
 - **Game Server Management**: Rust, Unturned, CS server setup and config
 - **Other**: API integration, WebSocket, Server optimization
 
